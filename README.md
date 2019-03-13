@@ -63,7 +63,7 @@ _These are some Twine games and works of interactive fiction that showcase the f
 
 ### Code examples and tutorials for specific functions
 (Additional material may be added here as we go along in the class.)
-- [Twine tutorial file]() created for students in the Digital Media Practice class.
+- [Twine tutorial file](https://github.com/st01c/Twine-resources/blob/master/_twine-files/DMP_TUTORIAL-file-v3.html) created for students in the Digital Media Practice class.
    _This file contains many coding examples that you can try out, copy, or modify. Note that the tutorial file repeats some of the information also contained in this document_.
    Instructions:
    This is an .html file that you can import directly into Twine.
