@@ -11,6 +11,11 @@ _A note to students: These resources combine and streamline all the information 
 1. Use the **Chrome** web browser for your work in Twine.
 2. Use the **web-based version** of Twine.
 3. **Save** your work often! (see below for details on how to do that)
+  - When you use Twine online, your work will be saved only in the browser cache memory. It is therefore recommended that you frequently save your project, in order not to lose work.
+  - While you are working on your project, click the _title_ of your project on the bottom left of the screen.
+  - In the pup-up menu, the bottom item is "Publish to File". Click this option to save a .html file of your project to your harddrive.
+  - Now, you can save this file on a USB stick, store it in the cloud, or email it to yourself.
+  - _NOTE: Safari and other browsers don't function well with this saving option – this is why you should absolutely use Chrome!_
 4. The Internet is your friend – consult the online resources provided below in the **Links** section, and do a simple Google search for any question/problem that arises... someone else has almost certainly encountered the same problem before, and has offered a solution online.
 5. For this Twine project, make sure to use the **Harlowe** Twine theme – this is the theme used in all of the teaching exercises, and it offers the most comprehensive documentation/manual/online community.
 
