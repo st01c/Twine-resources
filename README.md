@@ -10,7 +10,7 @@ _A note to students: These resources combine and streamline all the information 
 ## General suggestions, warnings, and advice
 1. Use the **Chrome** web browser for your work in Twine.
 2. Use the **web-based version** of Twine.
-3. **Save** your work often! (see below for details on how to do that)
+3. **Save** your work often!
    - When you use Twine online, your work will be saved only in the browser cache memory. It is therefore recommended that you frequently save your project, in order not to lose work.
    - While you are working on your project, click the _title_ of your project on the bottom left of the screen.
    - In the pup-up menu, the bottom item is "Publish to File". Click this option to save a .html file of your project to your harddrive.
@@ -63,5 +63,14 @@ _These are some Twine games and works of interactive fiction that showcase the f
 
 ### Code examples and tutorials for specific functions
 (Additional material may be added here as we go along in the class.)
-- (my file…)
+- [Twine tutorial file]() created for students in the Digital Media Practice class.
+   _This file contains many coding examples that you can try out, copy, or modify_.
+   Instructions:
+   This is an .html file that you can import directly into Twine.
+   - Begin by downloading it (click the link above).
+   - Go to [Twine](http://twinery.org/) and click 'Import from File'.
+   - Choose the tutorial file from your harddrive.
+   - Use the tutorial file in two ways:
+      - 'Play' the file like a normal Twine project – this allows you to see how the code works, i.e., what output it creates.
+      - Open the individual passages in order to see the code. Here, you can copy some code for your own project, or modify it to see how it changes the behaviour of the Twine project.
 - A tutorial for fine-tuning your Twine project to be [gender-inclusive](https://autistmouse.itch.io/gender-inclusive-twine-code-tutorial) (This tutorial, created by autistmouse and hosted on [itch.io](https://itch.io/), is created within Twine and works specifically with the Harlowe theme.)
