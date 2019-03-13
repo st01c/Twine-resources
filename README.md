@@ -15,7 +15,11 @@ _A note to students: These resources combine and streamline all the information 
 5. For this Twine project, make sure to use the **Harlowe** Twine theme – this is the theme used in all of the teaching exercises, and it offers the most comprehensive documentation/manual/online community.
 
 ## Links (in descending order of importance/relevance)
-- [Twine](http://twinery.org/) (This is where Twine lives online.)
+- [Official Twine website](http://twinery.org/) (This is where Twine lives online.)
 - [Twine Basics](https://ackland.org/files/2016/02/Twine-Style-Help-Guide-1-1.pdf) (A very basic introduction to using Twine 2 online, including images to help you understand the interface. This is a downloadable PDF).
 - [Twine 2 Guide](http://twinery.org/wiki/twine2:guide) (A very useful guide that offers everything from a basic introduction to advanced discussion of specific functions.)
-- 
+- Twine [video tutorials](https://www.youtube.com/playlist?list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24) (Created by 'VegetarianZombie' and hosted on YouTubeYouTube; this is a very extensive series of video tutorials ranging from absolute basics to advanced functions)
+
+## Some Twine terminology
+_Use these terms when you search for online solutions to problems you encounter_.
+The text boxes that make up your Twine project are called **passages**. The links between them are, not surprisingly, called **links**. The _code_ you will write to give your Twine project certain appearances and functionality draws on **HTML** and **CSS** syntax. It forms what in Twine is generally called **scripts** or **macros**.
