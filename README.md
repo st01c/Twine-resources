@@ -14,4 +14,8 @@ _A note to students: These resources combine and streamline all the information 
 4. The Internet is your friend – consult the online resources provided below in the **Links** section, and do a simple Google search for any question/problem that arises... someone else has almost certainly encountered the same problem before, and has offered a solution online.
 5. For this Twine project, make sure to use the **Harlowe** Twine theme – this is the theme used in all of the teaching exercises, and it offers the most comprehensive documentation/manual/online community.
 
-## Links
+## Links (in descending order of importance/relevance)
+- [Twine](http://twinery.org/) (This is where Twine lives online.)
+- [Twine Basics](https://ackland.org/files/2016/02/Twine-Style-Help-Guide-1-1.pdf) (A very basic introduction to using Twine 2 online, including images to help you understand the interface. This is a downloadable PDF).
+- [Twine 2 Guide](http://twinery.org/wiki/twine2:guide) (A very useful guide that offers everything from a basic introduction to advanced discussion of specific functions.)
+- 
