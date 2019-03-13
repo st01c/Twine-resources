@@ -11,11 +11,11 @@ _A note to students: These resources combine and streamline all the information 
 1. Use the **Chrome** web browser for your work in Twine.
 2. Use the **web-based version** of Twine.
 3. **Save** your work often! (see below for details on how to do that)
-  - When you use Twine online, your work will be saved only in the browser cache memory. It is therefore recommended that you frequently save your project, in order not to lose work.
-  - While you are working on your project, click the _title_ of your project on the bottom left of the screen.
-  - In the pup-up menu, the bottom item is "Publish to File". Click this option to save a .html file of your project to your harddrive.
-  - Now, you can save this file on a USB stick, store it in the cloud, or email it to yourself.
-  - _NOTE: Safari and other browsers don't function well with this saving option – this is why you should absolutely use Chrome!_
+   - When you use Twine online, your work will be saved only in the browser cache memory. It is therefore recommended that you frequently save your project, in order not to lose work.
+   - While you are working on your project, click the _title_ of your project on the bottom left of the screen.
+   - In the pup-up menu, the bottom item is "Publish to File". Click this option to save a .html file of your project to your harddrive.
+   - Now, you can save this file on a USB stick, store it in the cloud, or email it to yourself.
+   - _NOTE: Safari and other browsers don't function well with this saving option – this is why you should absolutely use Chrome!_
 4. The Internet is your friend – consult the online resources provided below in the **Links** section, and do a simple Google search for any question/problem that arises... someone else has almost certainly encountered the same problem before, and has offered a solution online.
 5. For this Twine project, make sure to use the **Harlowe** Twine theme – this is the theme used in all of the teaching exercises, and it offers the most comprehensive documentation/manual/online community.
 
@@ -42,7 +42,26 @@ _Use these terms when you search for online solutions to problems you encounter_
 The text boxes that make up your Twine project are called **passages**. The links between them are, not surprisingly, called **links**. The _code_ you will write to give your Twine project certain appearances and functionality draws on **HTML** and **CSS** syntax. It forms what in Twine is generally called **scripts** or **macros**. A very important part of your Twine code is **hooks**, which link together different parts of your code. More generally speaking, as in all coding/programming, you are, of course, designing **algorithms** or **functions** that use **variables**, **loops**, and **conditional (if/then) statements**.
 
 ## Great Twine projects to inspire you
+_These are some Twine games and works of interactive fiction that showcase the functionality of Twine. The list is subjective and not comprehensive... there are 1000s of great Twine works out there! Expore on your own (for example by searching [itch.io](https://itch.io/) for 'twine' tags. Some of the Twine pieces collected below are poetry, others are longform fiction, still others are various kinds of games. Have a look around, enjoy a good read, and get some ideas for what you could do with Twine_.
+- [High End Customizable Sauna Experience](http://aliendovecote.com/uploads/twine/sauna.html)(by Porpentine)
+- [Ultra Business Tycoon 3](http://slimedaughter.com/games/twine/tycoon/) (by Porpentine)
+- [Howling Dogs](http://slimedaughter.com/games/twine/howlingdogs/) (by Porpentine)
+- [Star Court](https://w.itch.io/star-court) (by Anna Anthropy)
+- [And the Robot Horse You Rode In On](https://w.itch.io/robot-horse) (by Anna Anthropy)
+- [Ruinness](http://slimedaughter.com/games/twine/ruiness/) (by Porpentine)
+- [Slavoj Žižek Makes A Twine Game](http://heylookatmygames.com/twine/zizek.html) (by Cameron Kunzelman)
+- [Carl](http://heylookatmygames.com/twine/carl.html) (by Cameron Kunzelman)
+- [Or, What Is It Like To Be A Thing?](http://heylookatmygames.com/twine/Whatisitliketobeathingfinal.html#4.d.m.a) (by Cameron Kunzelman)
+- Various Twine pieces by [Hannah Powell Smith](https://hannahpowellsmith.wordpress.com/if/)
+- [Depression Quest](http://www.depressionquest.com/dqfinal.html) (by Zoe Quinn)
+- [My Father's Long, Long Legs](http://correlatedcontents.com/misc/Father.html) (by Michael Lutz)
+- [The Axolotl Project](http://www.samanthavickgames.com/axolotl/#3i) (by Samantha Vick)
+- [The Uncle Who Works for Nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo) (by Ztul)
+- [Seedship](http://philome.la/johnayliff/seedship/play) (by John Ayliff)
+- [The Elysium Project](http://philome.la/Admrl_Ampersand/the-elysium-project/play) (by Admiral Ampersand)
+- [Cat Petting Simulator](https://neongrey.itch.io/pet-that-cat) (by neongrey)
 
 ### Code examples and tutorials for specific functions
+(Additional material may be added here as we go along in the class.)
 - (my file…)
 - A tutorial for fine-tuning your Twine project to be [gender-inclusive](https://autistmouse.itch.io/gender-inclusive-twine-code-tutorial) (This tutorial, created by autistmouse and hosted on [itch.io](https://itch.io/), is created within Twine and works specifically with the Harlowe theme.)
