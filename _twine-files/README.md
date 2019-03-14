@@ -1,1 +1,1 @@
-Twine project files are stored here.
+Please download the Twine tutorial project file on Canvas.
