@@ -28,6 +28,26 @@ Step-by-step instructions:
 Note that you can manipulate the width and height of all images (the spongebob in my example is probably rather squashed.)
 
 
+### VIDEO in your passages (can also be used to create SOUND EFFECTS)
 
-https://adam-marsden.co.uk/css-cheat-sheet
+The use of videos is pretty straightforward. Basically, you'll simply embed YouTube videos - so again, you need the URL of the video.
+
+1. Browse to the YouTube video you've chosen.
+2. Right-click the video.
+3. Click on 'Copy embed code'
+4. Paste the code into your Twine passage.
+The code will look something like this:
+```HTML
+<iframe width="1273" height="716" src="https://www.youtube.com/embed/euHoHdpGOa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+5. Now you have to manipulate the code a little bit. Specifically, we want the video to start playing automatically. The way to achieve this is to enter a bit of code that tells YouTube to start playing the video automatically (without the user having to click):
+```HTML
+<iframe width="0" height="0" src="https://www.youtube.com/embed/vNwYtllyt3Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
+In this example, first of all I added `?autoplay=1` at the end of the basic video URL (which is `https://www.youtube.com/embed/vNwYtllyt3Q` in the example).
+
+6. SOUND EFFECT TIP: Note that in the example above, I also added `width="0" height="0"` in the beginning. This sets the size of the video to 0 (making it invisible). In other words, you can choose a video with a relevant sound effect for your passage, and then automatically have it play in the background.
+### Further resources:
+
+- Useful '[cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)' for all sorts of simple CSS code.
 
