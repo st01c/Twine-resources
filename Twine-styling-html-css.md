@@ -1,4 +1,4 @@
-# TWINE STYLING IN HTML AND CSS
+# TWINE STYLING USING HTML AND CSS
 
 _Part of a collection of resources and links related to the Twine digital storytelling platform, initially created for students in Digital Media Practice at Anglia Ruskin University._
 
@@ -47,7 +47,40 @@ The code will look something like this:
 In this example, first of all I added `?autoplay=1` at the end of the basic video URL (which is `https://www.youtube.com/embed/vNwYtllyt3Q` in the example).
 
 6. SOUND EFFECT TIP: Note that in the example above, I also added `width="0" height="0"` in the beginning. This sets the size of the video to 0 (making it invisible). In other words, you can choose a video with a relevant sound effect for your passage, and then automatically have it play in the background.
-### Further resources:
 
-- Useful '[cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)' for all sorts of simple CSS code.
+### CHANGING THE STORY STYLESHEET
 
+If you click the name of your Twine project on the bottom left of the main screen, several options come up, including edit 'Story Stylesheet'. Here, you can add CSS code to style your project (change color, fonts, background, etc.)
+I'm including some basic examples below, but the possibilities are endless --- have a look at a CSS cheatsheet such as [this one](https://adam-marsden.co.uk/css-cheat-sheet) for some ideas of what you could do. Basically, if you've learned any CSS coding before, you can use it here.
+
+Basic CSS coding examples:
+
+```CSS
+tw-story /* this indicates the main text body of the project */
+{ 
+  background-color: grey;
+  
+  background:url("https://i.imgur.com/xyMTp36.jpg") no-repeat;
+  background-size: 100%;
+  backgroud-height: 100%;
+
+  color: orange; /* changes text color */
+  
+  font-family: Helvetica, sans-serif; /* changes to font style */
+  font-style: italic;
+  font-size: 100%;
+  
+  border: 5px solid red; /* a simple border around the passage */
+  padding: 25px;
+  margin: 25px;
+  width: 75%;
+}
+
+tw-link /* this indicates the links within passages */
+{
+  color: white;
+}
+```
+Obviously, this barely scratches the surface. There is a lot more you can do with CSS!
+
+### _Note that there are additional options to style individual passages or text bits directly within the individual Twine passages! Have a look at the relevant parts of the [Harlowe style manual](https://twine2.neocities.org/#macro_background) to get started._
